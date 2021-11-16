@@ -1,0 +1,18 @@
+body{
+    background-image: url(./images\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white !important;   
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: salmon;
+    text-decoration: underline;
+}
